@@ -1,0 +1,54 @@
+presidents:
+  - name: "President 1"
+    degree: "PhD Student, Biostatistics"
+    role: "Co-President"
+    image: "/assets/img/team/president1.jpg"
+  - name: "President 2"
+    degree: "PhD Student, Biostatistics"
+    role: "Co-President"
+    image: "/assets/img/team/president2.jpg"
+
+project_chairs:
+  - name: "Chair 1"
+    degree: "PhD Student, Biostatistics"
+    role: "Project Chair"
+    image: "/assets/img/team/chair1.jpg"
+  - name: "Chair 2"
+    degree: "PhD Student, Biostatistics"
+    role: "Project Chair"
+    image: "/assets/img/team/chair2.jpg"
+  - name: "Chair 3"
+    degree: "PhD Student, Biostatistics"
+    role: "Project Chair"
+    image: "/assets/img/team/chair3.jpg"
+
+internal_comms:
+  - name: "Member 1"
+    degree: "PhD Student, Biostatistics"
+    role: "Internal Communications"
+    image: "/assets/img/team/internal1.jpg"
+  - name: "Member 2"
+    degree: "PhD Student, Biostatistics"
+    role: "Internal Communications"
+    image: "/assets/img/team/internal2.jpg"
+
+external_comms:
+  - name: "Member 1"
+    degree: "PhD Student, Biostatistics"
+    role: "External Communications"
+    image: "/assets/img/team/external1.jpg"
+  - name: "Member 2"
+    degree: "PhD Student, Biostatistics"
+    role: "External Communications"
+    image: "/assets/img/team/external2.jpg"
+
+faculty_advisors:
+  - name: "Advisor 1"
+    degree: "Professor, Biostatistics"
+    role: "Faculty Advisor"
+    image: "/assets/img/team/advisor1.jpg"
+  - name: "Advisor 2"
+    degree: "Professor, Biostatistics"
+    role: "Faculty Advisor"
+    image: "/assets/img/team/advisor2.jpg"
+

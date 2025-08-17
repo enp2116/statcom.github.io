@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "Projects"
+- title: Projects
   url: "/projects/"
   side: left
 
@@ -10,13 +10,6 @@
   url: "/team/"
   side: left
 
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
-
 - title: Contact
   url: "/contact/"
-  side: right
+  side: left

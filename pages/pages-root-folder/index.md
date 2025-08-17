@@ -26,28 +26,21 @@ homepage: true
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
+## Statistics in the Community at Johns Hopkins University
 
-<div class="row">
-  <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Aug2022_cropped.jpeg">
-    
-  </div>
-  <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Jul2025.JPG">
-  </div>
-</div>
+STATCOM@JHU is a graduate student organization in the Department of Biostatistics dedicated to applying statistics in service of the Baltimore community. We provide **pro bono statistical consulting** to nonprofit, governmental, and community service organizations, while offering students opportunities for leadership and real-world consulting experience.
 
-<div class="row">
-  
-</div>
+**Our Mission**
+- Provide pro bono statistical consulting to local organizations  
+- Engage Biostatistics students in service-oriented consulting and leadership  
+- Apply statistical methods to make a positive impact on communities and institutions  
+- Foster collaboration among students committed to service-oriented statistics  
 
-## Research Overview
-The Griffith lab is a collaborative research group driven by the independent and complementary interests of twin scientists Malachi Griffith and Obi Griffith. The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
+**Services We Provide**
+- Designing and analyzing surveys and experiments  
+- Visualizing trends and relationships in data  
+- Using data for decision-making  
+- Making predictions and projections  
+- Extracting meaningful insights from large datasets  
 
-The Griffith Lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians, computer scientists, and software engineers. Each member of the lab is trained to use computational biology approaches to address research questions relating to cancer biology and precision cancer medicine. We train students and post-docs with a biology background that would like to develop bioinformatics skills. We are equally interested in trainees with a computer science background that would like to apply these skills to studying cancer and improving patient outcomes. If you are interested in becoming part of the team please review our [join](/join/) and open [positions](/join/positions/) pages.
-
-Our [research projects](/research/) cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer.
-
-In addition to many ongoing large scale cancer genome/transcriptome data analysis projects, clinical trial data analyses, and Genomics Tumor Board case studies, the Griffith Lab actively develops methods, algorithms and tools to help others perform these analyses. We have made substantial contributions to [open source and open access software](/software/) for the scientific community including creation of platforms for [alternative expression analysis](http://alexaplatform.org), regulatory region annotation, [mining drug-gene interactions](http://dgidb.org), [curation of functional mutations](http://docm.info), [clinical interpretation of variants in cancer](http://civicdb.org), [design of personalized cancer vaccines](http://pvactools.org), [integration of whole genome and RNA-seq data in a regulatory and splicing context](http://regtools.org), and [genomic data visualization](https://bioconductor.org/packages/release/bioc/html/GenVisR.html).
-
-We have [published over 100 papers](/publications/) with major areas of focus in precision medicine, cancer, genomics, immunogenomics, biomarker discovery, sequence analysis, gene regulation and alternative RNA splicing. We are also actively involved in training the next generation of computational biologists through [formal courses, online tutorials and workshops](/teaching/).
+Learn more about our [team](/team/), explore our [projects](/projects/), or [contact us](/contact/) to collaborate.

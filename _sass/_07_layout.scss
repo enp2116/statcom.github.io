@@ -361,3 +361,54 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+
+_______________
+/* Force footer social icons to navy circles with white glyphs */
+#footer .social-icons a {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 40px !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  border-radius: 50% !important;
+
+  background: $footer-bg !important; /* your navy */
+  color: #fff !important;            /* icon/glyph */
+  border: 0 !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+#footer .social-icons a:hover { background: lighten($footer-bg, 6%) !important; color:#fff !important; }
+
+/* if icons are SVGs */
+#footer .social-icons a svg { width: 20px; height: 20px; fill: #fff !important; }
+
+/* if icons come from an <i> font pseudo-element */
+#footer .social-icons a:before { line-height: 40px !important; color:#fff !important; }
+
+/* prevent underlines/offsets from images */
+#footer .social-icons a img { display:block; border:0; }
+
+/* compact overall spacing */
+#footer { padding-top: 14px !important; padding-bottom: 10px !important; }
+#footer .row { margin-top: 0 !important; margin-bottom: 0 !important; }
+#footer #footer-content h5 { margin: 0 0 6px 0 !important; }
+#footer #footer-content p  { margin: 0 0 6px 0 !important; }
+
+/* social list: no extra vertical space */
+#footer .social-icons     { margin: 6px 0 0 0 !important; }
+#footer .social-icons li  { padding: 0 !important; }
+
+/* (keep your fixed icon style) */
+#footer .social-icons a {
+  display: inline-flex !important; align-items: center !important; justify-content: center !important;
+  width: 40px !important; height: 40px !important; border-radius: 50% !important;
+  background: $footer-bg !important; color:#fff !important; text-decoration:none !important; border:0 !important;
+}
+#footer .social-icons a:hover { background: lighten($footer-bg, 6%) !important; }
+
+/* optional: cap any image height if you add logos later */
+#footer img { max-height: 44px; height:auto; width:auto; }
+
